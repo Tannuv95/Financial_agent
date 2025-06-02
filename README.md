@@ -37,4 +37,4 @@ GROQ_API_KEY=your_groq_api_key
 
 ### 🖼️ Sample Output
 
-![Analyst Recommendations](analyst_recommendations.png)
+![Analyst Recommendations](images/analyst_recommendations.png)
