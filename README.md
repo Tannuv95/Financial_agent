@@ -37,5 +37,5 @@ GROQ_API_KEY=your_groq_api_key
 
 ### 🖼️ Sample Output
 
-[![Analyst Recommendations](Project/images/analyst_recommendations.png)
+[![Analyst Recommendations]([Project/images/analyst_recommendations.png)](https://github.com/Tannuv95/Financial_agent/blob/main/Project/images/analyst_recommendations.png)
 
